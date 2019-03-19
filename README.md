@@ -5,7 +5,7 @@
 ***
 
 ### Course 2
-## [Data Structeres][ds]
+## [Data Structures][ds]
 
 #### Topics:
 * _Basic Data Structures_
