@@ -16,8 +16,21 @@
 ***
 
 ### Course 3
-## Algorithms on Graphs
+## [Algorithms on Graphs][aog]
 
 #### Topics:
+* _Minimum Spanning Trees_
+***
+
+### Course 4
+## [Algorithms on Strings][aos]
+
+#### Topics:
+* _Suffix Trees_
+* _Burrows-Wheeler Transform and Suffix Arrays_
+* _Knuth-Morris-Pratt Algorithms_
+* _Constructing Suffix Arrays and Suffix Trees_
+***
 
 [ds]: https://github.com/coder-net/Data-Structures-and-Algorithms/tree/master/Data-Structures
+[aog]: https://github.com/coder-net/Data-Structures-and-Algorithms/tree/master/Algorithms-on-Graphs
