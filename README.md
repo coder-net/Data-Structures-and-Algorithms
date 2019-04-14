@@ -32,5 +32,6 @@
 * _Constructing Suffix Arrays and Suffix Trees_
 ***
 
+[aos]: https://github.com/coder-net/Data-Structures-and-Algorithms/tree/master/Algorithms-on-Strings
 [ds]: https://github.com/coder-net/Data-Structures-and-Algorithms/tree/master/Data-Structures
 [aog]: https://github.com/coder-net/Data-Structures-and-Algorithms/tree/master/Algorithms-on-Graphs
